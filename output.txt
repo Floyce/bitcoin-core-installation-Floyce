@@ -102,3 +102,119 @@
 }
 306
 bcrt1qstspu2ram6hapt4d33rcwkse32snqprw2tvjj4
+{
+  "chain": "regtest",
+  "blocks": 612,
+  "headers": 612,
+  "bestblockhash": "1b2d89eab8e5335a5894c5ed05754b2058bd487e1c8a839e64d271a0100310bb",
+  "difficulty": 4.656542373906925e-10,
+  "time": 1763214818,
+  "mediantime": 1763037927,
+  "verificationprogress": 1,
+  "initialblockdownload": true,
+  "chainwork": "00000000000000000000000000000000000000000000000000000000000004ca",
+  "size_on_disk": 184143,
+  "pruned": false,
+  "warnings": [
+    "This is a pre-release test build - use at your own risk - do not use for mining or merchant applications"
+  ]
+}
+{
+  "version": 289900,
+  "subversion": "/Satoshi:28.99.0/",
+  "protocolversion": 70016,
+  "localservices": "0000000000000c09",
+  "localservicesnames": [
+    "NETWORK",
+    "WITNESS",
+    "NETWORK_LIMITED",
+    "P2P_V2"
+  ],
+  "localrelay": true,
+  "timeoffset": 0,
+  "networkactive": true,
+  "connections": 0,
+  "connections_in": 0,
+  "connections_out": 0,
+  "networks": [
+    {
+      "name": "ipv4",
+      "limited": false,
+      "reachable": true,
+      "proxy": "",
+      "proxy_randomize_credentials": false
+    },
+    {
+      "name": "ipv6",
+      "limited": false,
+      "reachable": true,
+      "proxy": "",
+      "proxy_randomize_credentials": false
+    },
+    {
+      "name": "onion",
+      "limited": true,
+      "reachable": false,
+      "proxy": "",
+      "proxy_randomize_credentials": false
+    },
+    {
+      "name": "i2p",
+      "limited": true,
+      "reachable": false,
+      "proxy": "",
+      "proxy_randomize_credentials": false
+    },
+    {
+      "name": "cjdns",
+      "limited": true,
+      "reachable": false,
+      "proxy": "",
+      "proxy_randomize_credentials": false
+    }
+  ],
+  "relayfee": 0.00001000,
+  "incrementalfee": 0.00001000,
+  "localaddresses": [
+  ],
+  "warnings": [
+    "This is a pre-release test build - use at your own risk - do not use for mining or merchant applications"
+  ]
+}
+{
+  "walletname": "devwallet",
+  "walletversion": 169900,
+  "format": "sqlite",
+  "balance": 9668.74988720,
+  "unconfirmed_balance": 0.00000000,
+  "immature_balance": 584.37511280,
+  "txcount": 512,
+  "keypoolsize": 4000,
+  "keypoolsize_hd_internal": 4000,
+  "paytxfee": 0.00000000,
+  "private_keys_enabled": true,
+  "avoid_reuse": false,
+  "scanning": false,
+  "descriptors": true,
+  "external_signer": false,
+  "blank": false,
+  "birthtime": 1761165426,
+  "lastprocessedblock": {
+    "hash": "1b2d89eab8e5335a5894c5ed05754b2058bd487e1c8a839e64d271a0100310bb",
+    "height": 612
+  }
+}
+bcrt1qmpmj2fzpvm4zpf8j99p24efmpu2t47k0fm6vlh
+{
+  "blocks": 612,
+  "difficulty": 4.656542373906925e-10,
+  "networkhashps": 0.00135623869801085,
+  "pooledtx": 0,
+  "chain": "regtest",
+  "warnings": [
+    "This is a pre-release test build - use at your own risk - do not use for mining or merchant applications"
+  ]
+}
+[
+  "572fb57d1245e0e8e2f5fb7db3112cf481ce2b70d249d2872df8fa8178576d13"
+]
